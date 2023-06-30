@@ -12,4 +12,8 @@ All the codes are tested in the following environment:
 3.spconv v1.2.1 (commit fad3000249d27ca918f2655ff73c41f39b0f3127)
 
 # Todo
+1.Preparation
+2.Training
+3.Testing
+4.More Information
 ....
