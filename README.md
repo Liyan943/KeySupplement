@@ -9,7 +9,7 @@ All the codes are tested in the following environment:
 
 1.Linux (tested on Ubuntu 18.04)
 2.Python 3.6+
-3.spconv v1.2.1 (commit fad3000249d27ca918f2655ff73c41f39b0f3127)
+3.spconv v1.2.1
 
 # Todo
 1.Preparation
